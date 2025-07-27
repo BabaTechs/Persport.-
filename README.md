@@ -2,8 +2,9 @@
  <meta charset="UTF-8">
  <h1>
   <img src="IMG_20250723_115449.jpg" alt="profile pic." width="100" height="100">Sulaiman Abdulkadir
- <p>CEO at <a href="https://babatechs.portfoliobox.net/">Baba-Techs</a></p>
- <p>I'm a Web Developer and an IT expert! I 😋 solving problems.</p> </h1>
+ <ul>
+  <li>CEO at <a href="https://babatechs.portfoliobox.net/">Baba-Techs</a></li>
+ <li>I'm a Web Developer and an IT expert! I 😋 solving problems.</li> </h1>
     <h2>Teachings</h2>
 <ul>
  <li>YUMSUK</li>
