@@ -1,6 +1,7 @@
 <html lang="en">
  <meta charset="UTF-8">
- <h1><img src="IMG_20250723_115449.jpg" alt="profile pic."><strong>Sulaiman Abdulkadir</strong>
+ <h1>
+  <img src="IMG_20250723_115449.jpg" alt="profile pic." width="100" height="100"><strong>Sulaiman Abdulkadir</strong>
  CEO at <a href="https://babatechs.portfoliobox.net/">Baba-Techs</a>
  I'm a Web Developer and an IT expert! I 😋 solving problems. </h1>
     <h2>Teachings</h2>
